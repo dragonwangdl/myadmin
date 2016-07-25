@@ -1,1 +1,2 @@
 this is a design file
+中文设计文档
